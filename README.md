@@ -69,3 +69,8 @@ Samples Checked: 26
 
 Time taken: 9.2
 
+### Output
+![](https://github.com/vishnumandala/Improved-Bi-directional-RRT-Algorithm-for-Robot-Path-Planning-/blob/main/Improved%20Bidirectional%20RRT%20Star.png)
+
+### Demonstration (using TurtleBot)
+!{}(https://github.com/vishnumandala/Improved-Bi-directional-RRT-Algorithm-for-Robot-Path-Planning-/blob/main/Demonstration.gif)
